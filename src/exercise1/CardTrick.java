@@ -15,6 +15,7 @@ import java.util.Scanner;
 public class CardTrick {
     
     public static void main(String[] args) {
+        // i am done
         
         Card[] hand = new Card[7];
 
